@@ -4,6 +4,7 @@
 - calcio
 - musica
 - cibo
+
 **cose che vorrei imparare in queste due settimane:**
 - nuove tecniche
 - nuovi linguaggi
