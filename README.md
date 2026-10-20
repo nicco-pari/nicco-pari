@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**nicco-pari/nicco-pari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# niccolò parisi
+## Ho 17 anni, faccio informatica alle superiori
+##cose che mi piacciono:##
+-calcio
+-musica
+-cibo
+##cose che vorrei imparare in queste due settimane:##
+-nuove tecniche
+-nuovi linguaggi
+-nuovi applicativi
